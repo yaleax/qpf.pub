@@ -48,7 +48,7 @@ git push
 
 ### GitHub命令速查表
 
-![](https://img.qpf.red/github.png)
+![](https://img.qpf.pub/git.png)
 
 
 
