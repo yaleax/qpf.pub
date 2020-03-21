@@ -41,7 +41,7 @@ git pull
 
 ```bash
 hugo -D
-git add docs
+git add .
 git commit -m "update"
 git push
 ```
