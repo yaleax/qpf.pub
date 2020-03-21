@@ -12,7 +12,7 @@ weight: 50
 * 博客主题：[Even](https://github.com/olOwOlo/hugo-theme-even)
 * 博客代码托管：[GitHub](https://github.com/)
 * 网站服务器供应商：[GitHub Pages](https://pages.github.com/)
-* 域名服务商：[XinNet](https://www.xinnet.com/domain)
+* 域名服务商：[XinNet](http://www.xinnet.com/domain/domain.html)
 * DNS服务商：[CloudFlare](https://www.cloudflare.com/)
 * 域名证书：[Let's Encrypt](https://letsencrypt.org/)
 * CDN网络加速：[CloudFlare](https://www.cloudflare.com/)
