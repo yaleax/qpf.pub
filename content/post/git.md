@@ -4,6 +4,8 @@ date: 2019-11-17T11:02:02.027Z
 lastmod: 2019-11-17T11:02:04.017Z
 tags:
   - Github
+categories:
+  - Tech
 ---
 ## 前言
 使用了Hugo静态博客后，才开始正式使用GitHub，经过一段时间的使用，发现GitHub真好用，现在把一些关键信息记录下来。
