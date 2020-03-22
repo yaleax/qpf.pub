@@ -138,7 +138,7 @@ copyright = "愚道"            # default: author.name ↓        # 默认为下
     clientSecret = ""       # Your client secret
 
   [params.utterances]       # https://utteranc.es/
-    owner = "yaleax/suan.su-comments"              # Your GitHub ID
+    owner = "qpf.pub-comments"              # Your GitHub ID
     repo = ""               # The repo to store comments
 
   [params.gitalk]           # Gitalk is a comment system based on GitHub issues. see https://github.com/gitalk/gitalk
