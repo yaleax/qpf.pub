@@ -137,22 +137,20 @@
   </div>
 </article>
         </div>
-        <div id="gitalk-container"></div>
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.css" crossorigin="anonymous">
-    <script src="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js" crossorigin="anonymous"></script>
+        <div id="disqus_thread"></div>
     <script type="text/javascript">
-      var gitalk = new Gitalk({
-        id: '2019-11-10 11:49:51.261 \x2b0000 UTC',
-        title: '关于我',
-        clientID: '26887cc0a1158dbe9a7c',
-        clientSecret: '8e8c13fea641a6bf11e484f3436ba423cd85bf02',
-        repo: 'qpf.pub',
-        owner: 'yaleax',
-        admin: ['yaleax'],
-        body: decodeURI(location.href)
-      });
-      gitalk.render('gitalk-container');
+    (function() {
+      
+      
+      if (window.location.hostname === 'localhost') return;
+
+      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+      var disqus_shortname = 'qpf-pub';
+      dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
     </script>
+    <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
   
 
