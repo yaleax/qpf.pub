@@ -139,7 +139,7 @@ copyright = "愚道"            # default: author.name ↓        # 默认为下
 
   [params.utterances]       # https://utteranc.es/
     owner = "yaleax"              # Your GitHub ID
-    repo = "yaleax/qpf.pub"               # The repo to store comments
+    repo = "qpf.pub"               # The repo to store comments
 
   [params.gitalk]           # Gitalk is a comment system based on GitHub issues. see https://github.com/gitalk/gitalk
     owner = ""              # Your GitHub ID
