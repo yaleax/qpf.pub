@@ -3,7 +3,7 @@ title: Github或 Git命令使用
 date: 2019-11-17T11:02:02.027Z
 lastmod: 2019-11-17T11:02:04.017Z
 tags:
-  - Github
+  - GitHub
 categories:
   - 工具分享
 ---
