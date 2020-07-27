@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>愚道</copyright>
-    <lastBuildDate>Sun, 17 Nov 2019 11:02:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2020 00:07:38 +0800</lastBuildDate>
     
 	<atom:link href="http://qpf.pub/index.xml" rel="self" type="application/rss+xml" />
     
@@ -19,6 +19,15 @@
       
       <guid>http://qpf.pub/about/</guid>
       <description>为本博客提供技术支持的平台： 博客生成平台：Hugo 博客主题：Even 博客代码托管：GitHub 网站服务器供应商：GitHub Pages 域名服务商：新</description>
+    </item>
+    
+    <item>
+      <title> 让目录重新连接 Github</title>
+      <link>http://qpf.pub/post/reconnecthuggit/</link>
+      <pubDate>Tue, 28 Jul 2020 00:07:38 +0800</pubDate>
+      
+      <guid>http://qpf.pub/post/reconnecthuggit/</guid>
+      <description>1.前言 有两台电脑，一台在家，另外一台在公司，通过 Dropbox 可以让两个目录文件一致。如果想上传修改到 Github 还需要重新连接一下。这个教程的前提是，你已经复</description>
     </item>
     
     <item>
