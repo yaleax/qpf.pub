@@ -1,7 +1,10 @@
 ---
 title: " 让目录重新连接 Github"
 date: 2020-07-28T00:07:38+08:00
-draft: true
+tags:
+  - GitHub
+categories:
+  - 工具分享
 ---
 
 ### 1.前言
@@ -14,7 +17,7 @@ draft: true
 git config -l | grep url
 ```
 
-你将获得类似下面这样的地址，复制=后面的https://github.com/yaleax/qpf.pub.git
+你将获得类似下面这样的地址，复制=后面的: https://github.com/yaleax/qpf.pub.git
 
 `remote.origin.url=https://github.com/yaleax/qpf.pub.git`
 
